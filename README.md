@@ -1,1 +1,1 @@
-# Trabalho apresentado a disciplina do Processamento Digital de Imagens
+# Trabalho apresentado a disciplina de Processamento Digital de Imagens
